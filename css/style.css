@@ -74,6 +74,7 @@ html {
   display: flex;
   flex-basis: 100%;
   list-style: none;
+  font-family: "Noto Sans", sans-serif;
   padding: 0;
   padding-left: 3.125rem;
   margin: 0;
@@ -140,6 +141,7 @@ html {
 .header-text {
   max-width: 45rem;
   font-style: normal;
+  font-family: "Noto Sans", sans-serif;
   font-weight: 400;
   font-size: 1rem;
   line-height: 160%;
